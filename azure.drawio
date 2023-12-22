@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-22T11:13:51.036Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="PQsJV_isI8TU6MUtVMs7" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-22T11:37:26.549Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Safari/605.1.15" etag="ccv2U0Rr4Ja59jjcme0Q" version="22.1.11" type="github">
   <diagram name="Page-1" id="L3U0tchyBG2r1No5ePam">
     <mxGraphModel dx="1434" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,15 @@
         </mxCell>
         <mxCell id="L6sSysoaZfmQt14cvC6--16" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" vertex="1" parent="1">
           <mxGeometry x="60" y="40" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="L6sSysoaZfmQt14cvC6--17" value="Amazon EKS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.eks;" vertex="1" parent="1">
+          <mxGeometry x="60" y="630" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="L6sSysoaZfmQt14cvC6--18" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Kubernetes_Services.svg;" vertex="1" parent="1">
+          <mxGeometry x="231" y="630" width="68" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L6sSysoaZfmQt14cvC6--20" value="Azure Kubernetes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="206.5" y="700" width="117" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
